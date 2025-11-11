@@ -1,4 +1,4 @@
-<table style="margin-left: 0; margin-right: auto;">
+ <table style="margin-left: 0; margin-right: auto;">
     <tr>
         <td><img src="https://github.com/jlembury/kickflip-cartography-demo/blob/main/img/img-nada-kJvjDlqTkR0-unsplash.jpg?raw=1"></td>
         <td><h1 style="margin-bottom: 0;">Kickflip Cartography: </h1>
@@ -17,7 +17,7 @@ A local community group wants to build a skate park somewhere in the City of San
 2. be located in a <b>zip code</b> with demonstrated need, per <b>2025 San Diego police call records</b>.
 <hr>
 
-### Data
+### Data Sources
 - <em>parks</em>: San Diego Regional Data Warehouse, https://tinyurl.com/sd-data-warehouse
 - <em>skateParks</em>: The City of San Diego, https://www.sandiego.gov/park-and-recreation/centers/skateparks
 - <em>zipcodes</em>: San Diego Regional Data Warehouse, https://tinyurl.com/sd-data-warehouse
