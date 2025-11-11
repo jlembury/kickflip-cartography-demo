@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "skateParkPoints",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "skate_park_name": "Bill and Maxine Wilson Skate Park", "address": "702 S 30th St, San Diego, CA 92113" }, "geometry": { "type": "Point", "coordinates": [ -117.1295938, 32.6984056 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Carmel Valley Skate Park", "address": "12600 El Camino Real, San Diego, CA 92130" }, "geometry": { "type": "Point", "coordinates": [ -117.2377935, 32.9295979 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Central Avenue Skate Park", "address": "3680 Central Ave, San Diego, CA 92105" }, "geometry": { "type": "Point", "coordinates": [ -117.1083095, 32.7455204 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Cesar Solis Skate Park", "address": "4895 Del Sol Blvd, San Diego, CA 92154" }, "geometry": { "type": "Point", "coordinates": [ -117.0265227, 32.5718693 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Charles L. Lewis Memorial Skate Park", "address": "6610 Potomac St, San Diego, CA 92139" }, "geometry": { "type": "Point", "coordinates": [ -117.052628, 32.686946 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Chicano Park Skate Park", "address": "1949 Logan Ave, San Diego, CA 92113" }, "geometry": { "type": "Point", "coordinates": [ -117.1442761, 32.7013494 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Del Sur Skate Park", "address": "15816 Paseo Montenero, San Diego, CA 92127" }, "geometry": { "type": "Point", "coordinates": [ -117.140638, 33.0162978 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Linda Vista Skateboard Park", "address": "7064 Levant St, San Diego, CA 92111" }, "geometry": { "type": "Point", "coordinates": [ -117.1692276, 32.7919349 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Pacific Highlands Skate Park", "address": "5977 Village Center Loop Road, San Diego, CA 92130" }, "geometry": { "type": "Point", "coordinates": [ -117.1866491, 32.9613811 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Park de La Cruz Skate Park", "address": "3901 Landis St, San Diego, CA 92105" }, "geometry": { "type": "Point", "coordinates": [ -117.110937, 32.745123 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Rancho Penasquitos Skate Park", "address": "10111 Carmel Mountain Road, San Diego, CA 92129" }, "geometry": { "type": "Point", "coordinates": [ -117.1087713, 32.9607469 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Robb Field Skate Park", "address": "2525 Bacon St, San Diego, CA 92107" }, "geometry": { "type": "Point", "coordinates": [ -117.2452062, 32.7533409 ] } },
+{ "type": "Feature", "properties": { "skate_park_name": "Southcrest Trails Skate Park", "address": "3565 Birch St, San Diego, CA 92113" }, "geometry": { "type": "Point", "coordinates": [ -117.1166071, 32.6903655 ] } }
+]
+}

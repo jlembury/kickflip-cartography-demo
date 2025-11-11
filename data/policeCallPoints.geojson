@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "policeCallPoints",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "incident-number": "E25040018295", "address": "2400 4th Ave, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.161295, 32.73047 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25060021798", "address": "3100 University Ave, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.1267988, 32.7485514 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25060043758", "address": "4400 41st St, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.107259, 32.757228 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25030011048", "address": "6000 Skyline Dr, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.067741, 32.701505 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25030020629", "address": "3700 Florida St, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.143819, 32.745182 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25090020327", "address": "4100 Governor Dr, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.201236, 32.854519 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25090024974", "address": "4100 Governor Dr, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.201236, 32.854519 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25090025849", "address": "5100 Trojan Ave, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.084023, 32.75496 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25050019878", "address": "600 11th Ave, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.082043, 33.109283 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25050025903", "address": "3000 5th Ave, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.160433, 32.736743 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25090038395", "address": "2600 E St, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.138044, 32.714854 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25020003423", "address": "4000 44th St, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.099913, 32.749728 ] } },
+{ "type": "Feature", "properties": { "incident-number": "E25020020885", "address": "3700 Florida St, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.143819, 32.745182 ] } }
+]
+}
