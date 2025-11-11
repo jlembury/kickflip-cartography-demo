@@ -2,7 +2,7 @@
     <tr>
         <td><img src="https://github.com/jlembury/kickflip-cartography-demo/blob/main/img/img-nada-kJvjDlqTkR0-unsplash.jpg?raw=1"></td>
         <td><h1 style="margin-bottom: 0;">Kickflip Cartography: </h1>
-            <h3 style="margin-top: 0;">Finding the Perfect Location for a Skate Park</h3><br><br>
+            <h3 style="margin-top: 0;">Finding the Perfect Location for a Skate Park</h3><br>
             <h4 style="margin-bottom: 0;">GIS Awareness Week 2025, hosted by AIRC x Ecologik</h4>
             <h4 style="margin-top: 0; margin-bottom: 0;">Jessica Embury <em>(she/her/hers)</em></h4>
             <h4 style="margin-top: 0; margin-bottom: 0;">Email: <a href="mailto:jessica@gisjess.com">jessica@gisjess.com</a></h4>
