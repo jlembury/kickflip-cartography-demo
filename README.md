@@ -9,6 +9,8 @@
         </td>
     </tr>
 </table>
+
+View the rendered notebook <a href="https://nbviewer.org/github/jlembury/kickflip-cartography-demo/blob/main/kickflip_cartography_demo_complete.ipynb" target="blank">HERE</a>.
 <hr>
 
 ### Project Overview
